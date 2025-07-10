@@ -19,13 +19,19 @@ Typically, it depends on the registry or database you are using on which standar
 
 ### 2. Attribution
 
-Reuse is a good practice in developing training materials. However, typically it is necessary to give credit to the original authors. For example, if the authors have used a permissive CC-BY license, they should be credited in a way that complies with the license terms.
+Reuse is a good practice in developing training materials. However, typically it is necessary to give credit to the original authors. For example, if the authors have used a permissive CC-BY license, they should be credited in a way that complies with the license terms. More information on licenses can be found: 
+
+- [Chapter 10 of the ELIXIR FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/chapters/chapter_10/#)
+- [ELIXIR FAIR material by design course](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/chapters/chapter_05/)
+
+**@SIB:** we have dedicated [Copyright Guidelines](https://zenodo.org/record/5841604#.ZD8VR-xByX0) for training materials, at which you can find more information on how to properly attribute and license your materials.
+
 
 ### 3. License
 
 Without a license, the default copyright laws apply, meaning that no one can use, copy, distribute, or modify the materials. To allow others to use your materials, you need to add a license. For SIB courses, we recommend using the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). More information on licenses can be found: 
 
-- [ELIXIR FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/chapters/chapter_08/#)
+- [Chapter 8 of the ELIXIR FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/chapters/chapter_08/#)
 - [ELIXIR FAIR material by design course](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/chapters/chapter_05/#53-licenses)
 
 **@SIB:** we have dedicated [Copyright Guidelines](https://zenodo.org/record/5841604#.ZD8VR-xByX0) for training materials.
