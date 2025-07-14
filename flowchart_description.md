@@ -69,7 +69,7 @@ A persistent identifier (PID) is a long-lasting reference to a document, file, p
 
 Videos of lectures are very valuable materials for both learners and trainers to reuse materials. For sharing of videos you can use YouTube or Vimeo. These platforms are great for sharing and viewing videos, but that they are not for long-term storage. For archiving, you can use Zenodo.
 
-**@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.
+**@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.
 
 ### 9. Glittr.org
 
