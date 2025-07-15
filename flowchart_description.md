@@ -1,4 +1,3 @@
-# Make course materials open and FAIR 
 
 We aim to have all our training materials Open and FAIR. In this context, Open refers to 'publicly accessible' and [FAIR to Findable, Accessible, Interoperable and Reusable](https://www.go-fair.org/fair-principles/). A good place to start would be the paper “[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)”. As a second step it is recommended that the trainer uses the [ELIXIR FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/).  The flow chart below helps to organise the tasks to make your training materials FAIR. 
 
