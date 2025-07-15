@@ -1,4 +1,3 @@
-
 We aim to have all our training materials Open and FAIR. In this context, Open refers to 'publicly accessible' and [FAIR to Findable, Accessible, Interoperable and Reusable](https://www.go-fair.org/fair-principles/). A good place to start would be the paper “[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)”. As a second step it is recommended that the trainer uses the [ELIXIR FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/).  The flow chart below helps to organise the tasks to make your training materials FAIR. 
 
 !!! warning "The flowchart is **not** chronological"
@@ -24,7 +23,6 @@ Reuse is a good practice in developing training materials. However, typically it
 - [ELIXIR FAIR material by design course](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/chapters/chapter_05/)
 
 **@SIB:** we have dedicated [Copyright Guidelines](https://zenodo.org/record/5841604#.ZD8VR-xByX0) for training materials, at which you can find more information on how to properly attribute and license your materials.
-
 
 ### 3. License
 
@@ -87,5 +85,3 @@ TeSS indexes training materials and events from various sources, including GitHu
 Although now your materials have been made FAIR, it is important to communicate this to the world. You can do this by sharing your materials on social media, in newsletters, or by presenting them at conferences.
 
 **@SIB:** The recommended channel for sharing your training materials is through [the SIB Training linkedin page](https://www.linkedin.com/showcase/sib-swiss-institute-of-bioinformatics-training/).
-
-
